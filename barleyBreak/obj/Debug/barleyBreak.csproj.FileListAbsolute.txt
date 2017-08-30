@@ -1,0 +1,100 @@
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\bin\Debug\barleyBreak.exe.config
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\bin\Debug\barleyBreak.exe
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\bin\Debug\barleyBreak.pdb
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\App.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak_MarkupCompile.cache
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak.g.resources
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak.exe
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak.pdb
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak_MarkupCompile.lref
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\UIControll\GameMap.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\UIControll\GameMap.baml
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\UIControll\CellUI.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\UIControll\CellUI.baml
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\App.baml
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\MainWindow.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\MenuPage.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\MainWindow.baml
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\MenuPage.baml
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\UIControll\SoundButton.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\UIControll\SoundButton.baml
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak_Content.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\bin\Debug\sound\tetris.mp3
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\bin\Debug\sound\step.mp3
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\GameMapPage.g.cs
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\View\GameMapPage.baml
+d:\documents\visual studio 2015\Projects\barleyBreak\barleyBreak\obj\Debug\barleyBreak.csprojResolveAssemblyReference.cache
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\bin\Debug\barleyBreak.exe.config
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.exe
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.pdb
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.csprojResolveAssemblyReference.cache
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\GameMapPage.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\GameStatistic.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\LevelPage.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\MainWindow.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\MenuPage.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\SettingsPage.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\CellUI.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\GameMap.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\SoundButton.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\App.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak_Content.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak_MarkupCompile.cache
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak_MarkupCompile.lref
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\bin\Debug\sound\step.mp3
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\bin\Debug\sound\tetris.mp3
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\bin\Debug\settings
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\bin\Debug\barleyBreak.exe
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\bin\Debug\barleyBreak.pdb
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\App.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\GameMapPage.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\GameStatistic.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\LevelPage.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\MainWindow.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\MenuPage.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\SettingsPage.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\CellUI.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\GameMap.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\SoundButton.baml
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.g.resources
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.Properties.Resources.resources
+C:\Users\OEO\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\GameStatistic.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\LevelPage.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\MainWindow.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\MenuPage.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\SettingsPage.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\AIButton.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\CellUI.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\GameMapUI.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\SoundButton.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\App.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak_Content.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak_MarkupCompile.cache
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak_MarkupCompile.lref
+C:\Users\user\Desktop\barleyBreak\barleyBreak\bin\Debug\sound\tetris.mp3
+C:\Users\user\Desktop\barleyBreak\barleyBreak\bin\Debug\settings
+C:\Users\user\Desktop\barleyBreak\barleyBreak\bin\Debug\barleyBreak.exe.config
+C:\Users\user\Desktop\barleyBreak\barleyBreak\bin\Debug\barleyBreak.exe
+C:\Users\user\Desktop\barleyBreak\barleyBreak\bin\Debug\barleyBreak.pdb
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\App.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\GameStatistic.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\LevelPage.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\MainWindow.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\MenuPage.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\SettingsPage.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\AIButton.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\CellUI.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\GameMapUI.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\View\UIControll\SoundButton.baml
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.g.resources
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.Properties.Resources.resources
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.exe
+C:\Users\user\Desktop\barleyBreak\barleyBreak\obj\Debug\barleyBreak.pdb
+C:\Users\user\Desktop\barleyBreak\barleyBreak\bin\Debug\sound\imperia.mp3

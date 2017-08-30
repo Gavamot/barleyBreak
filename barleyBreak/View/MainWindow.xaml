@@ -1,0 +1,46 @@
+﻿<Window x:Class="barleyBreak.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:barleyBreak.View"
+        xmlns:uiControll="clr-namespace:barleyBreak.View.UIControll"
+        mc:Ignorable="d"
+        Title="Barley Break" Height="640" Width="800" MaxHeight="640" MinHeight="640" MaxWidth="800" MinWidth="800" Icon="/barleyBreak;component/img/cell.jpg" Topmost="True">
+    <Window.Background>
+        <ImageBrush ImageSource="/barleyBreak;component/img/background.jpg"/>
+    </Window.Background>
+    <Grid Name="MainGrid">
+        <Grid.Background>
+            <ImageBrush ImageSource="/barleyBreak;component/img/menu_background.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="400"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+        </Grid.RowDefinitions>
+        <!-- Устанавливаем три столбца -->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="400"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="2" Panel.ZIndex="10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="35"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="20"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <uiControll:SoundButton Grid.Column="1" Grid.Row="1" HorizontalAlignment="Right" >
+
+            </uiControll:SoundButton>
+        </Grid>
+    </Grid>
+</Window>
